@@ -1,1 +1,1 @@
-# ISIC-2017-Challenge-
+# ISIC-2017-Challenge
